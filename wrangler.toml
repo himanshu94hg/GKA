@@ -1,0 +1,7 @@
+name = "good-karma-affect"
+type = "webpack"
+account_id = "89cc56b4e12bb5e3ada6891242bdf393"
+workers_dev = true
+
+[site]
+bucket = "./src"
